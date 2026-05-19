@@ -231,7 +231,6 @@ a complete ML workflow from raw data to deployable prediction function.
 **Connect with me:**
 
 [![LinkedIn](www.linkedin.com/in/nivash-nandan-b0b63729b)
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nivashnandan07)
 
 ---
