@@ -230,7 +230,8 @@ This project was built as an independent Machine Learning project to demonstrate
 a complete ML workflow from raw data to deployable prediction function.
 **Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nivash Nandan)
+[![LinkedIn](www.linkedin.com/in/nivash-nandan-b0b63729b)
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nivashnandan07)
 
 ---
